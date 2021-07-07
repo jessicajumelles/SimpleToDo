@@ -24,8 +24,6 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 https://media.giphy.com/media/iE52X3U9nrivvTbPqI/giphy.gif
-https://media.giphy.com/media/iE52X3U9nrivvTbPqI/source.mov
-<div style="width:100%;height:0;padding-bottom:214%;position:relative;"><iframe src="https://giphy.com/embed/iE52X3U9nrivvTbPqI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/iE52X3U9nrivvTbPqI">via GIPHY</a></p>
 
 
 GIF created with [Giphy](http://www.giphy.com).
